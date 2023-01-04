@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+* {
+  margin: 0;
+  font-family: Lato, sans-serif;
+}
+
+body {
+  height: 120vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.states {
+  fill: none;
+  stroke: white;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+h1, h3 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+div#tooltip {
+  position: absolute;
+  padding: 0.5rem;
+  font-size: 1rem;
+  background-color: ghostwhite;
+  box-shadow: 0 0 20px black;
+  border-radius: 0.75rem;
+  pointer-events: none;
+}/*# sourceMappingURL=styles.css.map */
