@@ -1,6 +1,6 @@
 # US Education Map :world_map:	
 
-## What is this project?
+## What is this project? :bulb:
 
 This sites showcases a map with topographic data about high education in the US counties, classified with different colors, in an interactive map. 
 
