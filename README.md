@@ -1,4 +1,4 @@
-# useducation :world_map:	
+# US Education Map :world_map:	
 
 ## What is this project?
 
